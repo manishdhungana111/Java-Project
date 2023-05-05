@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aeroplane/Aeroplane.iml" filepath="$PROJECT_DIR$/Aeroplane/Aeroplane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileIO/FileIO.iml" filepath="$PROJECT_DIR$/FileIO/FileIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlappyBird/FlappyBird.iml" filepath="$PROJECT_DIR$/FlappyBird/FlappyBird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notebook/Notebook.iml" filepath="$PROJECT_DIR$/Notebook/Notebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objserialization/Objserialization.iml" filepath="$PROJECT_DIR$/Objserialization/Objserialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PracticeProject.iml" filepath="$PROJECT_DIR$/.idea/PracticeProject.iml" />
+    </modules>
+  </component>
+</project>
